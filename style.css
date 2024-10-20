@@ -1,0 +1,225 @@
+html,body,form {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: Helvetica;
+}
+
+div {
+  margin: 0;
+  border: 0;
+  padding:0;
+  width: 1080px;
+}
+
+div.header {
+  padding-left:80px;
+  padding-top: 35px;
+}
+
+div.content {
+  background-image: url('background.png');
+  min-height: 400px;
+}
+
+div.footer {
+  padding-left:80px;
+  padding-bottom:30px;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: block;
+}
+
+img.center {
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: top;
+  margin-top: 0;
+}
+
+img.index2 {
+  display: inline;
+}
+
+table {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  cell-spacing: 1;
+  text-align:left;
+}
+
+tr {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+td.main1 {
+  width: 89px;
+}
+
+td.main2 {
+  width: 161px;
+  vertical-align:top;
+}
+
+td.main3 {
+  width: 15px;
+}
+
+td.main4 {
+  width: 780px;
+  padding-left:10px;
+  vertical-align:top;
+}
+
+td.homecontact {
+  width: 240px;
+}
+td.homeimage {
+  padding-top:75px;
+}
+
+td.tdmeetone {
+  padding-left:3px;
+}
+
+td.tdmeet {
+  padding-left:3px;
+  padding-bottom: 10px;
+}
+
+td.meetings {
+  padding-bottom: 10px;
+}
+
+p {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+p.phone {
+  padding-left:3px;
+}
+
+p.title {
+  padding-top:5px;
+}
+
+h1 {
+  margin: 0;
+  border: 0;
+  padding: 0px;
+}
+
+li {
+  padding-bottom: 6px;
+}
+
+/***** Styles for the left navigation column *****/
+
+ul.leftcol {
+  list-style-type: none;
+}
+
+li.leftcol {
+  horizontal-align: center;
+  padding-left: 12px;
+  padding-bottom: 10px;
+}
+
+a.leftcol:link {
+  color:white;
+  text-decoration:none;
+}
+
+a.leftcol:visited {
+  color:white;
+  text-decoration:none;
+}
+
+/*wild guesses
+
+img {
+  display: block;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h2 {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h3 {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h4 {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h5 {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h6 {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+
+
+div.col1 {
+  width:92px;
+}
+div.col2 {
+  width:92px;
+}
+div.col3 {
+  width:92px;
+}
+div.col4 {
+  width:92px;
+}
+
+/***** Styles for the Research page *****/
+
+li.research {
+  padding-right:10px;
+}
+*/
